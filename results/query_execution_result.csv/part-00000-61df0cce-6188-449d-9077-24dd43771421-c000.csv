@@ -1,0 +1,6 @@
+query_name,ExecutionTime
+YearlyCarrierDelay,0.08764147758483887
+YearlyNASDelay,0.02373480796813965
+YearlyWeatherDelay,0.013146400451660156
+YearlyLateAircraftDelay,0.015027046203613281
+YearlySecurityDelay,0.014265060424804688
